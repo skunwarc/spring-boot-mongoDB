@@ -11,4 +11,4 @@
 - docker run --tty --publish <dockerpublishport>:<localhostport> <snapshot-name>
   
    # got to the browser 
-   - <IPdocker>:<appportnumber> paste in the browser
+   - [IPdocker]:[appportnumber] paste in the browser
