@@ -10,5 +10,5 @@
 # command to run docker image in container
 - docker run --tty --publish [dockerpublishport]:[localhostport] [snapshot-name]
   
-   # got to the browser 
-   - [IPdocker]:[appportnumber] paste in the browser
+# got to the browser 
+-  [IPdocker]:[appportnumber] paste in the browser
