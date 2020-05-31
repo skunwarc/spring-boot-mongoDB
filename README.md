@@ -8,7 +8,7 @@
 - also you need to have docker desktop running on the background
 
 # command to run docker image in container
-- docker run --tty --publish <dockerpublishport>:<localhostport> <snapshot-name>
+- docker run --tty --publish [dockerpublishport]:[localhostport] [snapshot-name]
   
    # got to the browser 
    - [IPdocker]:[appportnumber] paste in the browser
