@@ -2,6 +2,8 @@
 - references : https://medium.com/@gtommee97/rest-api-java-spring-boot-and-mongodb-4dffbcabbaf5
 
 # command to create a docker image 
+# you need spring-boot version from 2.3.0
+## no need to create a docker image file on spring-boot version from 2.3.0
 
 - mvn spring-boot:build-image
 
